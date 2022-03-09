@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmucheru
-- 👀 I’m interested in software development.
+- 👀 I have an interest in software development, systems programming and more.
 
 <!---
 cmucheru/cmucheru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
