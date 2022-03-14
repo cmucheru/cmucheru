@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @cmucheru
-- 👀 I have an interest in software development, systems programming and more.
+I am an engineering student passionate about software development, enthusiastic about microcontrollers, embedded systems and systems programming. The tech of electrical engineering amazes me!
 
 <!---
 cmucheru/cmucheru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the P
