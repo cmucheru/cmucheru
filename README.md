@@ -1,4 +1,4 @@
-👋 Hi, I’m @cmucheru
+👋 Hello, I’m @cmucheru
 
 👀 I’m interested in software development and embedded systems
 
