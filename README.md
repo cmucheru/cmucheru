@@ -1,4 +1,6 @@
-I am an engineering student passionate about software development, enthusiastic about microcontrollers, embedded systems and systems programming. The tech of electrical engineering amazes me!
+👋 Hi, I’m @cmucheru
+👀 I’m interested in software development and embedded systems
+💞️ I’m looking to collaborate on software development and machine learning projects
 
 <!---
 cmucheru/cmucheru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
