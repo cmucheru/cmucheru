@@ -1,6 +1,4 @@
-👋 Hello, I’m @cmucheru
-
-👀 I’m interested in full stack development and electronics.
+👋 Hello, I’m @cmucheru.
 
 
 
